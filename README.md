@@ -2,3 +2,20 @@
 
 Mudança de arquivos!
 Mudança de arquivos 2
+
+## Como Trabalhar com VSCode - Git - GitHub -> Workflow Dev
+- PowerShell: Terminal do Windows bom de usar
+- Git: Ajuda a mandar nossos arquivos pro GitHub e controla a versão deles
+- VSCode: É o editor de código para começar {Indicação OwLeandro}
+- mkdiir: Cria um diretório novo
+- cd .\nome-da-pasta: Acessa uma pasta
+- cd ..: Volta uma pasta
+- code .: Abre o VSCode na pasta atual
+- clear: Limpa o terminal
+
+- git init: Faz uma pasta virar uma "pasta do git"
+- git status: Mostra arquivos jogados na mesa e arquivos na caixa de trabalho
+- git add .: Adiciona todos os arquivos na caixa de trabalho
+- git commit -m "mensagem": Sela a caixa com uma mensagem
+- git push -u origin main OU git push: Manda a caixa pro GitHub
+- git pull: Pega as alterações feitas no GitHub
